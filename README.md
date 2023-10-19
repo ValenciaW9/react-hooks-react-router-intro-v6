@@ -292,7 +292,7 @@ in our React applications.
 
 ## Resources
 
-- [React Router Tutorial][react-router]
+- [React Router][react-router]
 - [Manipulating Browser History][history-api]
 
 [react-router]: https://reactrouter.com/en/main
